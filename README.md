@@ -1,16 +1,17 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/DIMAZ-FEBRIAND/DIMAZ-FEBRIAND/main/header.svg" width="100%" alt="Terminal Boot">
 
-<!--
-**DIMAZ-FEBRIAND/DIMAZ-FEBRIAND** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/DIMAZ-FEBRIAND/DIMAZ-FEBRIAND/main/about.svg" width="100%" alt="Terminal Cat">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="https://raw.githubusercontent.com/DIMAZ-FEBRIAND/DIMAZ-FEBRIAND/main/skills.svg" width="100%" alt="Terminal Skills">
+
+<br/>
+
+<img src="https://ryme.md/api/render/terminal-github-stats?u=DIMAZ-FEBRIAND&bg=0a0a0a&fg=18fb1c&accent=4ade80&muted=5a5a64&dur=21" width="100%" alt="Terminal GitHub">
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/DIMAZ-FEBRIAND/DIMAZ-FEBRIAND/main/footer.svg" width="100%" alt="Terminal Logout">
