@@ -4,4 +4,4 @@
 
 ### IT Support | Network Engineering Enthusiast
 
-I'm a student and IT Support enthusiast interested in computer networking, network infrastructure, and troubleshooting.
+Hello, I’m Dimaz Febriand. I am an IT student with expertise in network engineering, and I work remotely as an IT support specialist for a client’s company. I am a graduate of Tekaje Cyber ​​Indonesia and hold international MikroTik certifications, MTCNA and MTCRE.
